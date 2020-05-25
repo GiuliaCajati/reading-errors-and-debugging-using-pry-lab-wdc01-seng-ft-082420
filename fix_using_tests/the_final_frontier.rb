@@ -1,7 +1,8 @@
 
 
 def generate_star_date
-  (rand(100000) + 400000) / 10.0
+  start_ date (rand(100000) + 400000) / 10.0
+  return
 end
 
 def state_log(star_date)
